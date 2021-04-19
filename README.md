@@ -1,3 +1,8 @@
+<h1 align="center">
+<img src="https://nodejs.org/static/images/logo.svg" width="122" height="75">
+ <br>
+</h1>
+
 [Configurações do ambiente](https://www.notion.so/Configura-es-do-ambiente-d0fcddac0de642fb99fca7d8dbd28cc3)
 
 # Introdução
