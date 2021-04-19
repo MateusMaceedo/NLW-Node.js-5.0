@@ -31,7 +31,7 @@ Você pode instalar as seguintes extensões a partir do menu de extensões do pr
 
 As seguintes configurações podem ser acessadas no VS Code apertando `Ctrl + Shift + P` (ou `cmd +` , digitando `Preferences: Open Settings (JSON)` e entrando na opção encontrada:
 
-<img src="/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F79aca06f-8252-4865-a00f-d557469bb025%2FUntitled.png?table=block&amp;id=eb94d5b2-06be-4a11-b884-eb383837381d&amp;width=1730&amp;userId=c0530cfd-b499-49b5-9557-57b445ee0294&amp;cache=v2" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F79aca06f-8252-4865-a00f-d557469bb025%2FUntitled.png?table=block&id=eb94d5b2-06be-4a11-b884-eb383837381d&width=1730&userId=c0530cfd-b499-49b5-9557-57b445ee0294&cache=v2" width="864" height="462.7">
 
 No arquivo JSON que abriu, adicione as seguintes configurações (certifique-se de adicionar dentro das chaves {}):
 
