@@ -10,6 +10,18 @@ Para começar a preparar você para essa semana incrível de muito conteúdo e a
 <img src="https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
 </h1>
 
+#### Dias
+- Dia 1: Liftoff - :heavy_check_mark:
+>We're go for launch. É hora de decolar e partir rumo ao próximo nível. Esse é o começo da nossa missão.
+
+- Dia 2:
+
+- Dia 3: 
+
+- Dia 4: 
+
+- Dia 5: 
+
 # Guias
 
 [Instalação das ferramentas](https://www.notion.so/Instala-o-das-ferramentas-405f3e8b014649cbb422dee6b5bd0535)
@@ -129,3 +141,4 @@ No arquivo JSON que abriu, adicione as seguintes configurações (certifique-se 
 "splitHTMLAttributes.closingBracketOnNewLine": true,
 "window.zoomLevel": 1
 ```
+
